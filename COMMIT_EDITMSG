@@ -1,0 +1,25 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	modified:   cypress/e2e/demoBlaze.feature
+#	modified:   cypress/e2e/fleaMarket.feature
+#	modified:   cypress/fixtures/demoblaze.json
+#	new file:   cypress/support/step_definitions/DemoB_steps.js
+#	modified:   cypress/support/step_definitions/Predefined_Steps.js
+#
+# Changes not staged for commit:
+#	modified:   cypress/e2e/demoBlaze.feature
+#	deleted:    cypress/support/page-object/demoblaze_PO.js
+#	modified:   cypress/support/step_definitions/DemoB_steps.js
+#
+# Untracked files:
+#	cypress/support/page-object/demoblazeCart_PO.js
+#	cypress/support/page-object/demoblazeHome_PO.js
+#	cypress/support/page-object/demoblazeProduct_PO.js
+#
